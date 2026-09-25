@@ -42,3 +42,6 @@ gha-benchmark.json
 
 # Raw bank API spike data (real financial data, never committed)
 .bank_spike_data/
+
+# CodeGraph local index (per-machine, regenerate with `codegraph init`)
+.codegraph/
